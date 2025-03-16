@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Ryan 👋
 
-<!--
-**ryanalvita/ryanalvita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Software Engineer from Indonesia 🇮🇩.
+- I currently live in Delft, the Netherlands 🇳🇱.
+- I have a strong background in hydraulic engineering combined with modern software practices 💻.
+- I enjoy turning complex data into actionable solutions 📊.
+- My passion lies in engineering simulations, data visualization, and full-stack applications 💡.
 
-Here are some ideas to get you started:
+Explore some of my personal projects on my website: [ryanalvita.github.io](https://ryanalvita.github.io/) 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on:
+- **LinkedIn:** [ryanalvita](https://www.linkedin.com/in/ryanalvita/) 🔗
+- **Email:** [ryanalvita@yahoo.com](mailto:ryanalvita@yahoo.com) ✉️
+
+Thanks for stopping by!
