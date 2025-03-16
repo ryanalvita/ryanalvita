@@ -11,5 +11,3 @@ Explore some of my personal projects on my website: [ryanalvita.github.io](https
 Connect with me on:
 - **LinkedIn:** [ryanalvita](https://www.linkedin.com/in/ryanalvita/) 🔗
 - **Email:** [ryanalvita@yahoo.com](mailto:ryanalvita@yahoo.com) ✉️
-
-Thanks for stopping by!
