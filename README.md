@@ -4,7 +4,7 @@
 - I currently live in Delft, the Netherlands 🇳🇱
 - I have a strong background in hydraulic engineering combined with modern software practices 💻
 - I enjoy turning complex data into actionable solutions 📊
-- My passion lies in engineering simulations, data visualization, and full-stack applications 💡
+- I'm passionate about democratizing technology and making it accessible such that people can use it to solve their problems. 💡
 
 Explore some of my personal projects on my website: [ryanalvita.github.io](https://ryanalvita.github.io/) 🌐
 
